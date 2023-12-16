@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "iced_lava:block/iced_lava"
+    }
+  }
+}
